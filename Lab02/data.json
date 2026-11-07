@@ -1,0 +1,50 @@
+{
+    "chart_title":"Popularity around the World",
+    "data_points": 
+    [
+
+        {
+            "Coffee Type":"Cappuccino",
+            "Number of Countries Most Popular":24
+        },
+        {   
+            "Coffee Type":"Espresso",
+            "Number of Countries Most Popular":14
+        },
+        {
+            "Coffee Type":"Americano",
+            "Number of Countries Most Popular":14
+        },
+        {
+            "Coffee Type":"Black Coffee",
+            "Number of Countries Most Popular":12
+        }
+    ],
+
+
+    "coffee_shops": 
+    [
+
+        {
+            "Coffee_Chain":"Starbucks",
+            "US_Locations":16860
+        },
+        {   
+            "Coffee_Chain":"Dunkin",
+            "US_Locations":9999
+        },
+        {
+            "Coffee_Chain":"Dutch Bros",
+            "US_Locations":1136
+        },
+        {
+            "Coffee_Chain":"Scooter's Coffee",
+            "US_Locations":906
+        },
+        {
+            "Coffee_Chain":"7 Brew",
+            "US_Locations":602
+        }
+
+    ]
+}
